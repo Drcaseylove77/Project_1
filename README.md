@@ -14,6 +14,7 @@ My data science competencies include:
 - Python *limited exposure*
 
 In order to test the inclusion of a photograph, I've included a photo of a Data Scientist writing code that I created with the Generative AI tool "Midjourney":
+
 ![Casey_Love_Data_Scientist_writing_code_21af0b05-1d6b-48fb-b15c-406007691706](https://github.com/user-attachments/assets/5d1ae740-58bc-4509-87b1-79efc9d68dd4)
 
 
